@@ -27,6 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/n4thn1/order-summary-card](https://github.com/n4thn1/order-summary-card)
+- Live Site URL: [https://order-summary-card-livid.vercel.app/](https://order-summary-card-livid.vercel.app/)
 
 ## My process
 
